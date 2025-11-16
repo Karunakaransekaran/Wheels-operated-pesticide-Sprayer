@@ -86,13 +86,7 @@ Coverage area limited to small/medium fields
 
 Design Files & Documentation
 
-This repository includes:
 
-/docs – Full project report, abstract, mechanism explanation, design calculations
-
-/design – Frame sketches, linkage diagrams, nozzle arrangement drawings
-
-/images – Fabrication images and final model photos
 
 How to Use
 
